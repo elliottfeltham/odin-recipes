@@ -1,3 +1,26 @@
+body {
+    background-color: rgb(255, 230, 180);
+}
+
 h1 {
-    font-family: 'Brush Script MT', cursive;
+    font-family: 'Brush Script MT', cursive, sans-serif;
+}
+
+ul,
+ol {
+    list-style-position: inside;
+}
+.centered {
+    text-align: center;
+}
+.typed {
+    font-family: "Courier New", Courier, monospace;
+}
+
+.odds {
+    background-color: rgb(250, 225, 190);
+}
+
+.evens {
+    background-color: rgb(255, 215, 140);
 }
